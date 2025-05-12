@@ -1,6 +1,4 @@
-# AmE_BrE_spelling
-
-## British-American English Variant Analyzer
+# British-American English Variant Analyzer
 
 This script analyzes a text corpus for British vs. American spelling preferences using suffix-based pattern recognition and lexicon comparison. It's especially useful for linguistic analysis, editing, and stylistic consistency in writing.
 
